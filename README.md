@@ -1,5 +1,4 @@
 ﻿# To implement
 1. Gradient Boost
 2. Random Forests
-3. .ipynb
-4. ReadME
+
